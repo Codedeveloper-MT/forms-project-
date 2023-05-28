@@ -1,0 +1,36 @@
+body{
+  background-image: url('dusty4.jpg');
+  background-repeat: repeat-y;
+  text-align: center;
+  font-size: 5ex;
+  background-color: red;
+  color: white;
+}
+ /*legend*/
+ legend{
+   text-decoration: overline;
+   color: white;
+   font-family: fantasy;
+
+ }
+fieldset{
+  margin-left: 285px;
+  margin-top: 100px;
+}
+table{
+  text-align: center;
+  border-collapse: collapse;
+  margin-left: 20%;
+  border-spacing: 15px;
+  border-width: 10px;
+  border-color: white;
+  border-style: solid;
+}
+tr,td{
+  border-width: 10px;
+  border-color: white;
+  border-style: solid;
+  border-collapse: collapse;
+padding: 2px 5px 2px 5px;
+
+}

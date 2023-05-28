@@ -1,0 +1,36 @@
+body{
+  background-image: url('dusty4.jpg');
+  background-repeat: repeat-y;
+  text-align: center;
+  font-size: 7ex;
+  background-color: red;
+  color: white;
+}
+ /*legend*/
+ legend{
+   text-decoration: overline;
+   color: white;
+   font-family: fantasy;
+
+ }
+fieldset{
+  margin-left: 295px;
+  margin-top: 155px;
+}
+#input1,#input2,#input3{
+  height: 40px;
+  width: 200px;
+}
+#label2{
+  margin-right: 85px;
+}
+#label3{
+    margin-right: 100px;
+}
+#inputbtn1{
+  background-color: white;
+  font-size: 1.5ex;
+  border-radius: 9px;
+  color: red;
+  border-color: red;  
+}

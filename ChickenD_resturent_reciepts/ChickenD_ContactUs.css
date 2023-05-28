@@ -1,0 +1,16 @@
+#submit{
+  font-size: 3ex;
+  background-color: black;
+  color: white;
+}
+label{
+  font-size: 1ex;
+}
+#input_A{
+  width: 350px;
+  height: 50px;
+  margin-bottom: 12px;
+ }
+h6{
+  margin-top: 58px;
+}
